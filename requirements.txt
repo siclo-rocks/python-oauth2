@@ -1,4 +1,4 @@
-git+https://github.com/siclo-rocks/httplib2@master
 mock==1.3.0
 pep8==1.6.2
 pytest==2.7.2
+git+https://github.com/siclo-rocks/httplib2@master
